@@ -1,2 +1,2 @@
-# DATA-CLEANING-PIPELINE
-End-to-end  data cleaning &amp;analysis built during the Decodelap Data Analyst internship. It covers duplicate removal, missing coupon codes, for reporting across real-world dataset.
+# DATA-CLEANING & PREPARATION
+Clean a raw dataset by handling missing values, duplicates, and incorrect data. Key Requirements: Identify missing or null values. Remove duplicates. Correct data formats(dates, numbers, text) Key Skills: Data cleaning, Excel or Python basics, data preparation
